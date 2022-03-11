@@ -1,5 +1,5 @@
 # Tescum
-A bearer token brute forcer for Tesco mobile.
+A Bearer token brute force tool for Tesco mobile.
 
 A random script I made because I was bored. Uses Tesco mobile's private API to bruteforce the Bearer token which is used to access yours or someone elses account. I assume Tesco wouldn't expect anything like this, plus using their private API it has no limiting at all - check below lol
 
